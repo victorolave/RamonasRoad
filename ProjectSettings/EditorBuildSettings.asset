@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/RamonasRoad/Escenas/Portada.unity
+    guid: 1a76512cc23a2b54c9a11f7266367cbf
+  - enabled: 1
+    path: Assets/RamonasRoad/Escenas/Nivel.unity
+    guid: 44625b8db21566f4d9cf58f7b9e8bac7
+  m_configObjects: {}
