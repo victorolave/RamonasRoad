@@ -1,4 +1,4 @@
-# Ramona’s Road 🏃♀️
+# Ramona’s Road 🏃‍♀️
 
 Ramona’s road is an example of a 2D platform video game developed with the engine Unity for video games. In this game Ramona Flowers of the comic Scott Pilgrim vs. the World, is the protagonist.
 
